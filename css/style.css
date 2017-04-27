@@ -74,21 +74,33 @@ body {
 
 .dice-1 {
   background-image: url('../img/1.png');
+  width:100px;
+  height:100px;
 }
 .dice-2 {
   background-image: url('../img/2.png');
+  width:100px;
+  height:100px;
 }
 .dice-3 {
   background-image: url('../img/3.png');
+  width:100px;
+  height:100px;
 }
 .dice-4 {
   background-image: url('../img/4.png');
+  width:100px;
+  height:100px;
 }
 .dice-5 {
   background-image: url('../img/5.png');
+  width:100px;
+  height:100px;
 }
 .dice-6 {
   background-image: url('../img/6.png');
+  width:100px;
+  height:100px;
 }
 /******************************************
 /* ADDITIONAL STYLES
